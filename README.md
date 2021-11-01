@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AhmadMous
 - 👀 I’m interested in getting a job
 - 🌱 I’m currently learning to walk on my hands
-- 💞️ I’m looking to convince ZS to marry me ...
 - 📫 How to reach me? you don't ... I'm on another level
 
 <!---
